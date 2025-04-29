@@ -1,6 +1,6 @@
 # Job-Wise Advisor
 
-Job-Wise Advisor is a project designed to help users analyze and manage job-related data effectively. This repository includes tools and features to assist users in making informed decisions. Additionally, it includes an "Emojify" feature to add emojis to your text for better visualization and fun.
+Job-Wise Advisor is a project designed to help users analyze and manage job-related data effectively. This repository includes tools and features to assist users in making informed decisions.
 
 ## Features
 
