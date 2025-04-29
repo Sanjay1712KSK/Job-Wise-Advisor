@@ -6,39 +6,25 @@ Job-Wise Advisor is a project designed to help users analyze and manage job-rela
 
 - Analyze job-related data.
 - Manage and organize job information.
-- Emojify text for better readability and engagement.
 
-## Installation
+## 📦 Installation & Setup
 
-1. Clone the repository to your local system:
+1️⃣ **Clone the repository**  
+```sh
+git clone https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI.git
+cd Rule-Based-Chatbot-with-UI
+```
 
-    ```bash
-    git clone https://github.com/your-username/job-wise-advisor.git
-    ```
+2️⃣ **Install dependencies**  
+```sh
+npm install
+```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd job-wise-advisor
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    npm install
-    ```
-
-## Usage
-
-1. Run the application:
-
-    ```bash
-    npm start
-    ```
-
-2. Access the application in your browser at `http://localhost:8080`.
-
-3. Use the Emojify feature to add emojis to your text.
+3️⃣ **Run the development server**
+```sh
+npm run dev
+```
+**Your Job-Wise-Advisor will be live at http://localhost:8080/**
 
 ## 🤝 Contributing
 
