@@ -36,7 +36,7 @@ Job-Wise Advisor is a project designed to help users analyze and manage job-rela
     npm start
     ```
 
-2. Access the application in your browser at `http://localhost:3000`.
+2. Access the application in your browser at `http://localhost:8080`.
 
 3. Use the Emojify feature to add emojis to your text.
 
@@ -51,7 +51,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU PUBLIC License](LICENSE).
 
 ## Contact
 
